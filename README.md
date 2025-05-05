@@ -18,6 +18,7 @@ Add an Active Directory User to a Group with au2mator Self-Service Portal
 1.	<a href="https://click.au2mator.com/au2matorInstall/?utm_source=github&utm_medium=social&utm_campaign=AD_AddUserToGroup&utm_content=Readme" target="_blank">Install and Download au2mator Self-Service Portal</a>
 
 2.	<a href="https://click.au2mator.com/StartWithPowerShell/?utm_source=github&utm_medium=social&utm_campaign=AD_AddUserToGroup&utm_content=Readme" target="_blank">Configure au2mator to run PowerShell Scripts</a>
+2.	<a href="https://click.au2mator.com/StartWithPowerShell/?utm_source=github&utm_medium=social&utm_campaign=AD_AddUserToGroup&utm_content=Readme" target="_blank">Configure au2mator to run PowerShell Scripts</a>
 
 3.	Download and save this PowerShell Script to your au2mator Powershell Script Path
 
